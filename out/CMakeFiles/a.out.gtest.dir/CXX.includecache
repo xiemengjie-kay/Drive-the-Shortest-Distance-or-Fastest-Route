@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/Digraph.hpp
+exception
+-
+functional
+-
+list
+-
+map
+-
+utility
+-
+vector
+-
+algorithm
+-
+queue
+-
+iostream
+-
+
+/home/ics46/projects/proj5/gtest/DigraphTests.cpp
+gtest/gtest.h
+-
+Digraph.hpp
+/home/ics46/projects/proj5/gtest/Digraph.hpp
+

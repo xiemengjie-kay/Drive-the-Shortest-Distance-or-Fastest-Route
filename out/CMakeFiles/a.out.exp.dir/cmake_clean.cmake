@@ -1,0 +1,14 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/a.out.exp.dir/app/InputReader.cpp.o"
+  "CMakeFiles/a.out.exp.dir/app/RoadMapReader.cpp.o"
+  "CMakeFiles/a.out.exp.dir/app/RoadMapWriter.cpp.o"
+  "CMakeFiles/a.out.exp.dir/app/TripReader.cpp.o"
+  "CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o"
+  "bin/a.out.exp"
+  "bin/a.out.exp.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/a.out.exp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
