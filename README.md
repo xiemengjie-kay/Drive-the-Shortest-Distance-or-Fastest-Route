@@ -1,14 +1,13 @@
 # Drive the Shortest Distance or Fastest Route
 Dijkstra's Shortest-Path Algorithm | On the Linux Terminal, users could enter the starting points, destinations, the street map, and traffic flow to get the fastest or closest route according to their needs.
 
-All the code I wrote is mainly in core folder. app folder is for the general application of the project. exp folder is for experiment, and gtest folder is for google test.
+All the code I wrote is mainly in the `core` folder. The `app` folder is for the general application of the project. The `exp` folder is for experiment, and the `gtest` folder is for google tests.
 
 1. Git pull origin main
 2. ./build  // build the project
 3. ./run  // run the project
 
-## For more information about the input and output, please check ProjectDescription.pdf
-https://github.com/xiemengjie-kay/Drive-the-Shortest-Distance-or-Fastest-Route/blob/main/ProjectDescription.pdf
+## For more information about inputs, outputs, and the project, please check [ProjectDescription.pdf](https://github.com/xiemengjie-kay/Drive-the-Shortest-Distance-or-Fastest-Route/blob/main/ProjectDescription.pdf)
 ## Sample input
 ```
 # LOCATIONS
