@@ -8,6 +8,7 @@ All the code I wrote is mainly in core folder. app folder is for the general app
 3. ./run  // run the project
 
 ## For more information about the input and output, please check ProjectDescription.pdf
+https://github.com/xiemengjie-kay/Drive-the-Shortest-Distance-or-Fastest-Route/blob/main/ProjectDescription.pdf
 ## Sample input
 ```
 # LOCATIONS
